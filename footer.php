@@ -45,7 +45,7 @@
 	<!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> -->
 	<script type="text/javascript" src="asset/js/jquery-3.5.1.min.js"></script>
 	<!-- Fontawesome -->
-	<!-- <script defer src="https://use.fontawesome.com/releases/v5.14.0/js/all.js"></script> -->
+	<script defer src="https://use.fontawesome.com/releases/v5.14.0/js/all.js"></script>
 	<script type="text/javascript" src="asset/font/fontawesome/js/all.js"></script>
 	<!-- custom js -->
 	<script type="text/javascript" src="asset/js/main.js"></script>
